@@ -4,4 +4,5 @@ During my second semester of Lascala Master program, I had a lab project on Plas
 However, measuring the plasma density by spectrometer is not always easy, sometimes due to the bad alignment of mirrors and lenses, or due to the low applied voltage on the plasma, the result is noisy, so fitting the results and measuring the denisty are challenging. 
 
 In this project, we want to use the Autoencoder Neural Network to denoise the low voltage data by applying a Gaussian noise on our clean data and learning the model to denoise them. 
-![nn network](https://user-images.githubusercontent.com/107031954/175989339-2df1d88f-e417-41cb-9e7b-67f58744e47b.png)
+
+![nn network](https://user-images.githubusercontent.com/107031954/176000482-9ab11845-8d74-4ff0-b3f7-68a67b469a0c.png)
