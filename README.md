@@ -5,4 +5,8 @@ However, measuring the plasma density by spectrometer is not always easy, someti
 
 In this project, we want to use the Autoencoder Neural Network to denoise the low voltage data by applying a Gaussian noise on our clean data and learning the model to denoise them. 
 
+You can download the data from :
+https://download2280.mediafire.com/jxsxknnqr0vg/v83p8algn0z87nh/all.zip
+
+
 ![nn network](https://user-images.githubusercontent.com/107031954/176000482-9ab11845-8d74-4ff0-b3f7-68a67b469a0c.png)
